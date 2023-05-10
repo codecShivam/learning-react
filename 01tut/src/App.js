@@ -1,5 +1,5 @@
 import Header from './Header';
-import Content from './Content';
+import Content1 from './Content1';
 import Footer from './Footer';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Content />
+      <Content1 />
       <Footer />
     </div>
   );

@@ -3,7 +3,7 @@ const Header = () => {
     return (
         <header>
             <h1>
-                List of Friends
+                List of Stacks
             </h1>
         </header>
     )

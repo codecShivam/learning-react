@@ -7,7 +7,7 @@ Welcome to my React Learning Repository! In this repository, I am sharing my jou
 In this repository, you'll find:
 
 - React code snippets
-- Mini-projects built with React
+- Mini-projects built  with React
 - Resources and tutorials that I found helpful in my learning journey
 
 ## Getting Started
